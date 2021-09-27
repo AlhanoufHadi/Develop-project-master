@@ -23,10 +23,9 @@ h2{
   padding: 9px;
   font-size: 25px; 
 }
-
-
 section{
-  background-color:#b7aedd;
+  background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 12%, rgba(253,187,45,1) 100%);
   display: grid;
   padding: 5% 5%;
   grid-gap: 1%;
